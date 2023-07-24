@@ -69,4 +69,46 @@ body {
     border: .2rem solid rgb(7, 73, 144);
     min-width: 2rem;
   }
+
+  h4 {
+    font-size: 0.7cm;
+    padding: 20px;
+    padding-top: 20px;
+    color: rgb(7, 73, 144);
+    margin: 0;
+    text-align: center;
+    
+  
+  
+  }
+  .socialIcon {
+    display: flex;
+    justify-content: center;
+  }
+  .socialIcon a {
+    text-decoration: none;
+    padding: 20px;
+    
+    border-radius: 50%;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  .socialIcon a i {
+    font-size: 2rem;
+    color:rgb(7, 73, 144)
+    ;
+  }
+  footer {
+    margin-bottom: 50px;
+  
+    border-radius: 25px;
+  }
+  .footerContainer {
+    height: 4cm;
+  }
+  
+  .socialIcon {
+    margin: 0;
+  }
+  
   
